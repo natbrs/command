@@ -1,0 +1,11 @@
+com\mycompany\command\editor\Editor$1.class
+com\mycompany\command\editor\Editor$4.class
+com\mycompany\command\commands\CutCommand.class
+com\mycompany\command\editor\Editor$3.class
+com\mycompany\command\editor\Editor.class
+com\mycompany\command\commands\CommandHistory.class
+Demo.class
+com\mycompany\command\commands\PasteCommand.class
+com\mycompany\command\commands\Command.class
+com\mycompany\command\commands\CopyCommand.class
+com\mycompany\command\editor\Editor$2.class
